@@ -1,4 +1,4 @@
-# Handwriting Recognition (MNIST) - AdvPT Project WS 2023
+# Handwriting Recognition (MNIST) - AdvPT Project WS 2023 in C++
 
 This project is a fully-connected neural network developed in C++ for the recognition of handwritten digits found in the MNIST dataset.
 
@@ -23,7 +23,7 @@ To build the project, run the `build.sh` script. This will create a `build` dire
 To run the project, execute the `mnist.sh` script. This will trigger the training and testing of the neural network implementation.
 
 ```shellscript
-./mnist.sh
+./mnist.sh <config path>
 ```
 
 ## Additional Notes
